@@ -1,6 +1,9 @@
 # mysite
 test site for django, html, css, javascript
 
+- [ ] asdf
+- [X] asfd
+
 **1. create a Django app called newapp:**
 ```bash
 cd into project/
